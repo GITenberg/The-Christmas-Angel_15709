@@ -1,0 +1,32 @@
+_repo: The-Christmas-Angel_15709
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15709-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+description: She stooped once more to pick up something which had fallen out when
+  the cover was jarred open. It was a pink papier-mâché angel, such as are often hung
+  from the top of Christmas trees as a crowning symbol. Norah stood holding it between
+  thumb and finger, staring amazedly. Who would think to find such a bit of frivolity
+  in the house of Miss Terry! The Christmas Angel is a stirring reminder of what really
+  matters at Christmas and throughout the year.
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+title: The Christmas Angel
+url: http://www.gutenberg.org/ebooks/15709
